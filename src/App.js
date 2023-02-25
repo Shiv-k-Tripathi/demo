@@ -1,12 +1,19 @@
 import './App.css';
-import Nav from './component/Nav';
-import Home from './component/Home';
+// import CompoA from './component/CompoA';
+// import CompoItem from './component/CompoItem';
+import Test from './Test';
+// import Nav from './component/Nav';
+// import Home from './component/Home';
 
 function App() {
+
+  
   return (
     <>
-     <Nav/>
-     <Home/>
+     {/* <Nav/>
+     <Home/> */}
+     {/* <CompoA/> */}
+     <Test/>
     </>
   );
 }
